@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "proyecto-ventas-89803": {
+      "hosting": {
+        "ProyectoVentas": [
+          "proyecto-ventas-89803"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "proyecto-ventas-89803"
+  }
+}
